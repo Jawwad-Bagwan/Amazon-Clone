@@ -4,6 +4,7 @@
   HTML, CSS & JAVASCRIPT
 ## Author :
   Jawwad Bagwan
+  
   Email: jawwadbagwan15@gmail.com
 ## Link :
-url : https://akashdeep023.github.io/Amazon-Clone/
+url : 
